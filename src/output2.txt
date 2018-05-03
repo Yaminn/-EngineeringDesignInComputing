@@ -1,0 +1,14 @@
+6018 nodes expanded
+cost = 7116
+Trip London to Toronto
+Trip Toronto to Minnesoda
+Trip Minnesoda to Nantucket
+Trip Nantucket to Minnesoda
+Trip Minnesoda to Sydney
+Trip Sydney to Springfield
+Trip Springfield to Minnesoda
+Trip Minnesoda to Kentucky
+Trip Kentucky to London
+Trip London to Kentucky
+Trip Kentucky to Nantucket
+Trip Nantucket to Toronto

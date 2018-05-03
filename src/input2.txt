@@ -1,0 +1,36 @@
+Transfer 121 London
+Transfer 238 Toronto
+Transfer 226 Kentucky
+Transfer 205 Minnesoda
+Transfer 198 Sydney
+Transfer 26 Springfield
+Transfer 142 Nantucket
+Time 500 London Toronto
+Time 500 London Kentucky
+Time 608 London Minnesoda
+Time 360 London Sydney
+Time 300 London Springfield
+Time 640 London Nantucket
+Time 707 Toronto Kentucky
+Time 141 Toronto Minnesoda
+Time 424 Toronto Sydney
+Time 583 Toronto Springfield
+Time 400 Toronto Nantucket
+Time 721 Kentucky Minnesoda
+Time 282 Kentucky Sydney
+Time 200 Kentucky Springfield
+Time 509 Kentucky Nantucket
+Time 447 Minnesoda Sydney
+Time 632 Minnesoda Springfield
+Time 316 Minnesoda Nantucket
+Time 200 Sydney Springfield
+Time 316 Sydney Nantucket
+Time 509 Springfield Nantucket
+Trip Toronto Minnesoda
+Trip Kentucky Nantucket
+Trip Kentucky London
+Trip Sydney Springfield
+Trip Springfield Minnesoda
+Trip Nantucket Toronto
+Trip Nantucket Minnesoda
+Trip London Toronto

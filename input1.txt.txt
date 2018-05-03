@@ -1,0 +1,36 @@
+Transfer 28 London
+Transfer 130 Hobart
+Transfer 223 Sydney
+Transfer 210 Perth
+Transfer 197 Hobart
+Transfer 176 Madrid
+Transfer 228 Melbourne
+Time 670 London Hobart
+Time 583 London Sydney
+Time 400 London Perth
+Time 632 London Hobart
+Time 412 London Madrid
+Time 360 London Melbourne
+Time 608 Hobart Sydney
+Time 360 Hobart Perth
+Time 100 Hobart Hobart
+Time 282 Hobart Madrid
+Time 316 Hobart Melbourne
+Time 316 Sydney Perth
+Time 509 Sydney Hobart
+Time 412 Sydney Madrid
+Time 538 Sydney Melbourne
+Time 282 Perth Hobart
+Time 100 Perth Madrid
+Time 223 Perth Melbourne
+Time 223 Hobart Madrid
+Time 300 Hobart Melbourne
+Time 141 Madrid Melbourne
+Trip Hobart Sydney
+Trip Perth Hobart
+Trip Perth Hobart
+Trip Hobart Sydney
+Trip Hobart Perth
+Trip Madrid Melbourne
+Trip Melbourne Hobart
+Trip London Madrid

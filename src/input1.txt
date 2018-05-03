@@ -1,0 +1,36 @@
+Transfer 28 London
+Transfer 130 Berlin
+Transfer 223 Toronto
+Transfer 210 Amsterdam
+Transfer 197 Seoul
+Transfer 176 Yangon
+Transfer 228 Tokyo
+Time 670 London Berlin
+Time 583 London Toronto
+Time 400 London Amsterdam
+Time 632 London Seoul
+Time 412 London Yangon
+Time 360 London Tokyo
+Time 608 Berlin Toronto
+Time 360 Berlin Amsterdam
+Time 100 Berlin Seoul
+Time 282 Berlin Yangon
+Time 316 Berlin Tokyo
+Time 316 Toronto Amsterdam
+Time 509 Toronto Seoul
+Time 412 Toronto Yangon
+Time 538 Toronto Tokyo
+Time 282 Amsterdam Seoul
+Time 100 Amsterdam Yangon
+Time 223 Amsterdam Tokyo
+Time 223 Seoul Yangon
+Time 300 Seoul Tokyo
+Time 141 Yangon Tokyo
+Trip Berlin Toronto
+Trip Amsterdam Berlin
+Trip Amsterdam Seoul
+Trip Seoul Toronto
+Trip Seoul Amsterdam
+Trip Yangon Tokyo
+Trip Tokyo Seoul
+Trip London Yangon

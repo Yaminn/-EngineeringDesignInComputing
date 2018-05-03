@@ -1,0 +1,17 @@
+Transfer 60 London
+Transfer 50 Paris
+Transfer 60 Rome
+Transfer 100 Madrid
+Time 400 London Paris
+Time 350 London Rome
+Time 230 London Madrid
+Time 120 Paris Rome
+Time 500 Paris Madrid
+Time 200 Rome Madrid
+Trip Rome Madrid
+Trip Madrid Rome
+Trip Paris Rome
+Trip Rome London
+Trip London Rome
+Trip Rome Paris
+Trip Madrid London

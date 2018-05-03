@@ -1,0 +1,11 @@
+Transfer 60 London
+Transfer 1 Paris
+Transfer 1 Rome
+Time 1 London Paris
+Time 2 London Rome
+Time 3 Paris Rome
+Trip London Paris
+Trip London Rome
+Trip Paris London
+Trip Paris Rome
+Trip Rome London
